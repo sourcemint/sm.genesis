@@ -3,7 +3,7 @@
 Sourcemint.Genesis
 ==================
 
-| Sourcemint.Genesis is a **100% open and hackable software dependency management system** that can be used for collaborative realtime distributed system development.
+> Sourcemint.Genesis is a **100% open and hackable software dependency management system** that can be used for collaborative realtime distributed system development.
 
 
 Overview

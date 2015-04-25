@@ -20,7 +20,7 @@ The diagram below illustrates the *Package Installation and Distribution Aspects
 ![Sourcemint.Genesis Overview Diagram](https://raw.githubusercontent.com/sourcemint/sm.genesis/master/docs/2015-04%20-%20Overview.jpg)
 
 
-*TODO: Illustrate the Package Dependency Management Aspect of Sourcemint.Genesis using a Diagram showing the `sm.*` components.*
+*TODO: Illustrate the Package Dependency Management Aspect of Sourcemint.Genesis using a Diagram showing the `sm` components.*
 
 
 Usage

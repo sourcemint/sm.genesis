@@ -8,7 +8,7 @@ function init {
 
 
 	pushd "$__BO_DIR__/.." > /dev/null
-		BO_callPlugin "github.com~bash-origin~bash.origin.pinf~0/source/installed/master/bash.origin.pinf" ensure genesis $@
+		BO_callPlugin "bash.origin.pinf@0.1.1" ensure genesis $@
 	popd > /dev/null
 }
 init $@

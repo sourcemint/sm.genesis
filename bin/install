@@ -8,7 +8,9 @@ function init {
 
 
 	pushd "$__BO_DIR__/.." > /dev/null
-		BO_callPlugin "bash.origin.pinf@0.1.1" ensure genesis $@
+		if [ ! -e ".pgs/.provisioned" ]; then
+			BO_callPlugin "bash.origin.pinf@0.1.1" ensure genesis $@
+		fi
 	popd > /dev/null
 }
 init $@
